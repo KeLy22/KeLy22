@@ -1,3 +1,4 @@
+![logo](https://github.com/KeLy22/KeLy22/blob/main/Pink%20Gradient%20Personal%20linkedin%20Banner.png)
 <h1 align="center">Hello World 👋, I'm Kely</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 

@@ -1,66 +1,31 @@
-<h1>Hi 👋, World! This is Kely.</h1>
-<p>A passionate web developer from Bangladesh.</p>
+<h1 align="center">Hello World 👋, I'm Kely</h1>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on a Software Development project.<br>
-🌱 I’m currently learning JavaScript and its frameworks.<br>
-⚡ Fun fact: Lazy but productive. 😆
+<img align="right" src="https://sysdig.com/wp-content/uploads/BlogImages-DevelopersFatige-featured-v3.gif" alt="coding" width="400">
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kely22&label=Profile%20views&color=0e75b6&style=flat" alt="kely22" /> </p>
 
-# 📊 GitHub Stats:
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KeLy22&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="KeLy22" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KeLy22&theme=dark&hide_border=false" alt="KeLy22" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeLy22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="KeLy22" />
+- 🔭 I’m currently working on **Software Development Project - (Student Management System)**
+
+- 🌱 I’m currently learning **Javascript and Its Frameworks.**
+
+- 📫 How to reach me **jannatulferdues2022@gmail.com**
+
+- ⚡ Fun fact **i am lazy but productive 😆**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jannatul-ferdues-kely-b4b590310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jannatul-ferdues-kely-b4b590310" height="30" width="40" /></a>
+<a href="https://fb.com/jannath.rahman.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jannath.rahman.50" height="30" width="40" /></a>
+<a href="https://instagram.com/jf_kely_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jf_kely_" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jf_kely" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jf_kely" height="30" width="40" /></a>
 </p>
 
-## 🏆 GitHub Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=KeLy22&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-### ✍️ Random Dev Quote
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kely22&show_icons=true&locale=en&layout=compact" alt="kely22" /></p>
 
-### 🔝 Top Contributed Repo
-<p>
-  <img src="https://github-contributor-stats.vercel.app/api?username=KeLy22&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kely22&show_icons=true&locale=en" alt="kely22" /></p>
 
-## 🌐 Where to find me:
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/jannatul-ferdues-kely-b4b590310">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a target="_blank" href="https://www.instagram.com/jf_kely_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram" />
-  </a>
-  <a target="_blank" href="https://www.facebook.com/jannath.rahman.50">
-    <img src="https://img.shields.io/badge/Facebook-%230866ff.svg?logo=facebook&logoColor=white" alt="facebook" />
-  </a>
-</p>
-
----
-<p>
-  <img src="https://visitcount.itsvg.in/api?id=KeLy22&icon=0&color=0" alt="profile visit count" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kely22&" alt="kely22" /></p>
